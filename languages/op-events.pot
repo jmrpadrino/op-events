@@ -1,0 +1,258 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TM WooCommerce Extra Product Options\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-23 17:08-0500\n"
+"PO-Revision-Date: 2015-06-16 06:19+0200\n"
+"Last-Translator: themecomplete <themecomplete@gmail.com>\n"
+"Language-Team: themecomplete <themecomplete@gmail.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: backend/op-cpt.php:15
+msgctxt "Post Type General Name"
+msgid "KN Events"
+msgstr ""
+
+#: backend/op-cpt.php:16
+msgctxt "Post Type Singular Name"
+msgid "KN Event"
+msgstr ""
+
+#: backend/op-cpt.php:17 backend/op-cpt.php:22 backend/op-cpt.php:50
+msgid "KN Events"
+msgstr ""
+
+#: backend/op-cpt.php:18
+msgid "KN Event"
+msgstr ""
+
+#: backend/op-cpt.php:19
+msgid "Item Archives"
+msgstr ""
+
+#: backend/op-cpt.php:20
+msgid "Item Attributes"
+msgstr ""
+
+#: backend/op-cpt.php:21 backend/op-events-tax.php:19
+msgid "Parent Item:"
+msgstr ""
+
+#: backend/op-cpt.php:23 backend/op-events-tax.php:21
+msgid "Add New Item"
+msgstr ""
+
+#: backend/op-cpt.php:24
+msgid "Add New"
+msgstr ""
+
+#: backend/op-cpt.php:25
+msgid "New Item"
+msgstr ""
+
+#: backend/op-cpt.php:26 backend/op-events-tax.php:22
+msgid "Edit Item"
+msgstr ""
+
+#: backend/op-cpt.php:27 backend/op-events-tax.php:23
+msgid "Update Item"
+msgstr ""
+
+#: backend/op-cpt.php:28 backend/op-events-tax.php:24
+msgid "View Item"
+msgstr ""
+
+#: backend/op-cpt.php:29
+msgid "View Items"
+msgstr ""
+
+#: backend/op-cpt.php:30
+msgid "Search Item"
+msgstr ""
+
+#: backend/op-cpt.php:31
+msgid "Not found"
+msgstr ""
+
+#: backend/op-cpt.php:32
+msgid "Not found in Trash"
+msgstr ""
+
+#: backend/op-cpt.php:33
+msgid "Featured Image"
+msgstr ""
+
+#: backend/op-cpt.php:34
+msgid "Set featured image"
+msgstr ""
+
+#: backend/op-cpt.php:35
+msgid "Remove featured image"
+msgstr ""
+
+#: backend/op-cpt.php:36
+msgid "Use as featured image"
+msgstr ""
+
+#: backend/op-cpt.php:37
+msgid "Insert into item"
+msgstr ""
+
+#: backend/op-cpt.php:38
+msgid "Uploaded to this item"
+msgstr ""
+
+#: backend/op-cpt.php:39 backend/op-events-tax.php:32
+msgid "Items list"
+msgstr ""
+
+#: backend/op-cpt.php:40 backend/op-events-tax.php:33
+msgid "Items list navigation"
+msgstr ""
+
+#: backend/op-cpt.php:41
+msgid "Filter items list"
+msgstr ""
+
+#: backend/op-cpt.php:51
+msgid "These are the KN Events"
+msgstr ""
+
+#: backend/op-events-tax.php:14
+msgctxt "Taxonomy General Name"
+msgid "Events Categories"
+msgstr ""
+
+#: backend/op-events-tax.php:15
+msgctxt "Taxonomy Singular Name"
+msgid "Events Category"
+msgstr ""
+
+#: backend/op-events-tax.php:16
+msgid "Events Categories"
+msgstr ""
+
+#: backend/op-events-tax.php:17
+msgid "All Events Categories"
+msgstr ""
+
+#: backend/op-events-tax.php:18
+msgid "Parent Item"
+msgstr ""
+
+#: backend/op-events-tax.php:20
+msgid "New Item Name"
+msgstr ""
+
+#: backend/op-events-tax.php:25
+msgid "Separate items with commas"
+msgstr ""
+
+#: backend/op-events-tax.php:26
+msgid "Add or remove items"
+msgstr ""
+
+#: backend/op-events-tax.php:27
+msgid "Choose from the most used"
+msgstr ""
+
+#: backend/op-events-tax.php:28
+msgid "Popular Items"
+msgstr ""
+
+#: backend/op-events-tax.php:29
+msgid "Search Items"
+msgstr ""
+
+#: backend/op-events-tax.php:30
+msgid "Not Found"
+msgstr ""
+
+#: backend/op-events-tax.php:31
+msgid "No items"
+msgstr ""
+
+#: backend/op-metaboxes-events.php:17
+msgid "Information"
+msgstr ""
+
+#: backend/op-metaboxes-events.php:24
+msgid "Startdatum der Veranstaltung"
+msgstr ""
+
+#: backend/op-metaboxes-events.php:34
+msgid "Enddatum der Veranstaltung"
+msgstr ""
+
+#: backend/op-metaboxes-events.php:44
+msgid "Veranstaltungsort"
+msgstr ""
+
+#: frontend/templates/archive-op_event.php:86
+msgid "Back"
+msgstr ""
+
+#: frontend/templates/archive-op_event.php:87
+msgid "Onward"
+msgstr ""
+
+#: frontend/templates/archive-op_event.php:91
+msgid "There is no events published yet"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:45
+msgid "Direkt zur Buchung"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:106
+msgid "Ihr Trainer"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:138
+msgid "Ort"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:169
+msgid "Wichtige Information"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:172
+msgid "Kosten pro Teilnehmer"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:176
+msgid "Dauer: "
+msgstr ""
+
+#: frontend/templates/single-op_event.php:185
+msgid "Weitere Informationen finden Sie in diesem PDF"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:189
+msgid "Anmeldung für Neukunden"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:191
+#: frontend/templates/single-op_event.php:194
+msgid "Anmeldung"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:192
+msgid "Vom"
+msgstr ""
+
+#: frontend/templates/single-op_event.php:192
+msgid "Bis"
+msgstr ""

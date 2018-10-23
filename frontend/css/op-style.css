@@ -1,0 +1,58 @@
+/* KN OP EVENTS PLUGIN STYLES */
+.underline {
+    border-bottom: 1px solid #ccc;
+    position: relative;
+}
+.underline:after {
+    content: "";
+    border: 3px solid #ec700a;
+    position: absolute;
+    padding: 0 16px;
+    bottom: -3px;
+    left: 0;
+}
+.shortcode-event-list{
+    display: block;
+    width: 100%;
+    overflow: auto;
+    padding: 0 20px;
+    font-size: 14px;
+}
+.shortcode-event-list h2{
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+.shortcode-event-list-list{
+    list-style: none;
+    list-style-type: none !important;
+    margin: 0;
+    padding: 0 !important;
+    margin-top: 18px;
+}
+.shortcode-event-item-placeholder{
+    display: flex;
+    margin-bottom: 18px;
+    line-height: 1;
+}
+.shortcode-event-date-placeholder{
+    max-height: 70px;
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 14px;
+    margin-right: 12px;
+    min-width: 60px;
+}
+.shortcode-event-date{
+    font-size: 28px;
+}
+.shortcode-event-content-placeholder h3{
+    font-size: 16px;
+    font-weight: bold;
+}
+.shortcode-event-list-link{
+    display: block;
+}
